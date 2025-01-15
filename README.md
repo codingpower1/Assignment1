@@ -1,7 +1,7 @@
 # COMP-1327 Assignment 1
 
 ## Description
-THis is the first assignment for module 1
+This is the first assignment for module 1
 
 ## Author
 Michael Docentes
