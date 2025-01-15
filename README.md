@@ -46,4 +46,4 @@ There are things that set me apart from others:
 - I have been coding since highschool
 - I tend to work better if I get given set of instructions
 - I have been learning about bash since highschool due to my friends
-- I am a tech nerd and been around computers since I was young
+- I am a tech nerd and been around computers since I was youngs
