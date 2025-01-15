@@ -1,5 +1,11 @@
 # COMP-1327 Assignment 1
 
+## Description
+THis is the first assignment for module 1
+
+## Author
+Michael Docentes
+
 ## First git status output:
 Your branch is up to date with origin/main
 nothing to commit, working tree clean
@@ -9,14 +15,7 @@ Changes not staged for commit:
 modified: README.md
 no changes added to commit
 
-## Description
-THis is the first assignment for module 1
-
-## Author
-Michael Docentes
-
 ## Purpose of the following Commands:
-
 - `mkdir`: [This is used to make a brand new directory]
 - `cd`: [To change between directories in your computer/laptop]
 - `code`: [To easily open virtual studio code]
@@ -39,3 +38,12 @@ With version control, it is possible to:
 - Shows how a project changed through the process
 - Protects from human errors
 - It allows more people to work on the same project at the same time
+
+## My Unique Touch
+
+There are things that set me apart from others:
+
+- I have been coding since highschool
+- I tend to work better if I get given set of instructions
+- I have been learning about bash since highschool due to my friends
+- I am a tech nerd and been around computers since I was young
