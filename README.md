@@ -21,6 +21,16 @@ Michael Docentes
 - `cd`: [To change between directories in your computer/laptop]
 - `code`: [To easily open virtual studio code]
 - `ls`: [To list down all the files in the current directory]
+- `git init`: [It creates a new git repository]
+- `git status`: [To see the current status of the directory]
+- `git add`: [To add the change in the current directory to the staging area]
+- `git commit`: [It is used to save on the local repository]
+- `git push`: [Used to upload a local repository to a remote repository]
+- `git pull`: [Used to fetch and download the contents of the remote repository into a local repository]
+- `git log`: [It displays committed snapshots]
+- `git branch`: [A moveable pointer to one of the commits]
+- `git merge`: [It's used to putting lines of development created by git branch and putting them into one single branch]
+- `git checkout`: [It is used to tell git which branch or commit you want your changes too]
 
 ## Why Version Control is Important
 
