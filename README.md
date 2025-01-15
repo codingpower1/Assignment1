@@ -14,3 +14,10 @@ THis is the first assignment for module 1
 
 ## Author
 Michael Docentes
+
+## Purpose of the following Commands:
+
+- `mkdir`: [This is used to make a brand new directory]
+- `cd`: [To change between directories in your computer/laptop]
+- `code`: [To easily open virtual studio code]
+- `ls`: [To list down all the files in the current directory]
